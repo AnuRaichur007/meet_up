@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120158924387",
+    "project_id": "meetup-8a2f2",
+    "storage_bucket": "meetup-8a2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120158924387:android:a34efeda777830e6c95256",
+        "android_client_info": {
+          "package_name": "com.AnushaRaichur.Meet_Up.meet_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120158924387-640qgq0sq18f4pmcubnbs5eeqj9iaurs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMzLSUUhVkwukuYjX-Tb8olU4vPhNWnFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120158924387-640qgq0sq18f4pmcubnbs5eeqj9iaurs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
